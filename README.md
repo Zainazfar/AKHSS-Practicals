@@ -1,2 +1,2 @@
 # AKHSS-Practicals
-Zain Azfar HSSC 2 Computer Science Practical codes
+HSSC 2 Computer Science Practical codes
